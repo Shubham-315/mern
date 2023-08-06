@@ -1,0 +1,23 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubham-315/mern.git"
+  },
+  "author": "Shubham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shubham-315/mern/issues"
+  },
+  "homepage": "https://github.com/Shubham-315/mern#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
